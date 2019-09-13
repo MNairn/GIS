@@ -5,6 +5,8 @@
 
 This package is meant to serve as a testing environment for further development towards integrating GIS functionality into the OHDSI stack. This initial vertical slice is focused on a subset of the overall goals of the GIS WG but aims to lay the foundation. It is likely that the structures and functions within will be modified if not replaced in later versions. Documentation for the GIS data model extension can be found on [the Wiki](https://github.com/OHDSI/GIS/wiki/OHDSI-GIS-Version-1.0). 
 
+The GIS Workgroup meets every Tuesday at 3pm EST. If you are interested in joining please reach out to Meghan Pettine at MPettine@iqvia.com. Meeting notes can be found on [the Google Drive](https://drive.google.com/drive/folders/1indXF36a7_vTZrDiIhXUnPtAzDCF5jVd). 
+
 ### Use case
 
 Integration of American Community Survey (ACS) data with OMOP CDM. 
